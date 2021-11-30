@@ -24,7 +24,7 @@ a {
 a:hover,
 a:active,
 a:focus {
-    color: blue;
+    color: #4390FA;
     outline: none;
     text-decoration: none;
 }
@@ -44,20 +44,20 @@ a:focus {
     font-weight: 600;
     letter-spacing: 1px;
     color: #ffffff;
-    background: blue;
+    background: #4390FA;
     border: 2px solid transparent;
     border-radius: 0;
-    box-shadow: inset 0 0 0 50px blue;
+    box-shadow: inset 0 0 0 50px #4390FA;
     transition: ease-out 0.3s;
     -webkit-transition: ease-out 0.3s;
     -moz-transition: ease-out 0.3s;
 }
 
 .btn:hover {
-    color: blue;
+    color: #4390FA;
     background: transparent;
-    box-shadow: inset 0 0 0 0 blue;
-    border-color: blue;
+    box-shadow: inset 0 0 0 0 #4390FA;
+    border-color: #4390FA;
 }
 
 #loader {
@@ -91,7 +91,7 @@ a:focus {
     width: 45px;
     height: 45px;
     border: 5px solid #dddddd;
-    border-top: 5px solid blue;
+    border-top: 5px solid #4390FA;
     border-radius: 50%;
     -webkit-animation: spin 2s linear infinite;
     animation: spin 2s linear infinite;
@@ -188,7 +188,7 @@ a:focus {
     }
     
     .navbar.nav-sticky .navbar-brand {
-        color: blue;
+        color: #4390FA;
     }
 
     .navbar-light .navbar-nav .nav-link,
@@ -211,7 +211,7 @@ a:focus {
     
     .navbar-light.nav-sticky .navbar-nav .nav-link:hover,
     .navbar-light.nav-sticky .navbar-nav .nav-link.active {
-        color: blue;
+        color: #4390FA;
     }
 }
 
@@ -222,7 +222,7 @@ a:focus {
     }
     
     .navbar .navbar-brand {
-        color: blue;
+        color: #4390FA;
     }
     
     .navbar .navbar-nav {
@@ -248,7 +248,7 @@ a:focus {
     margin-bottom: 45px;
     padding: 120px 0 0 0;
     overflow: hidden;
-    background: blue;
+    background: #4390FA;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -314,7 +314,7 @@ a:focus {
 
 .hero .hero-btn .btn {
     margin-top: 35px;
-    color: blue;
+    color: #4390FA;
     background: #ffffff;
     box-shadow: inset 0 0 0 50px #ffffff;
 }
@@ -439,7 +439,7 @@ a:focus {
     top: 11px;
     right: 0;
     left: -30px;
-    background: blue;
+    background: #4390FA;
     z-index: -1;
 }
 
@@ -450,7 +450,7 @@ a:focus {
     height: 3px;
     top: 11px;
     left: 3px;
-    background: blue;
+    background: #4390FA;
     z-index: 1;
 }
 
@@ -484,7 +484,7 @@ a:focus {
     content: '';
     position: absolute;
     width: 2px;
-    background: blue;
+    background: #4390FA;
     top: 0;
     bottom: 0;
     left: 50%;
@@ -516,7 +516,7 @@ a:focus {
     top: 48px;
     right: -8px;
     background: #ffffff;
-    border: 2px solid blue;
+    border: 2px solid #4390FA;
     border-radius: 16px;
     z-index: 1;
 }
@@ -548,7 +548,7 @@ a:focus {
     top: 44px;
     font-size: 16px;
     font-weight: 600;
-    color: blue;
+    color: #4390FA;
     text-transform: uppercase;
     letter-spacing: 1px;
     z-index: 1;
@@ -686,7 +686,7 @@ a:focus {
 
 .banner .banner-text .btn {
     margin-top: 15px;
-    color: blue;
+    color: #4390FA;
     background: #ffffff;
     box-shadow: inset 0 0 0 50px #ffffff;
 }
@@ -705,13 +705,13 @@ a:focus {
     position: relative;
     width: 100%;
     margin: 45px 0;
-    background: blue;
+    background: #4390FA;
 }
 
 .contact .contact-form {
     position: relative;
     padding: 90px 0 90px 45px;
-    background: blue;
+    background: #4390FA;
 }
 
 .contact .contact-form input {
@@ -745,7 +745,7 @@ a:focus {
 
 .contact .contact-form .btn {
     margin-top: 35px;
-    color: blue;
+    color: #4390FA;
     background: #ffffff;
     box-shadow: inset 0 0 0 50px #ffffff;
 }
@@ -859,7 +859,7 @@ a:focus {
 .footer {
     position: relative;
     margin-top: 45px;
-    background: blue;
+    background: #4390FA;
 }
 
 .footer .container-fluid {
